@@ -12,8 +12,7 @@
 //
 // - Move the paddle with the W and S keys for up and down movement respectively (we will reserve the Up and Down Keyboard keys for the right-side paddle)
 //    - The paddle should move up and down at a reasonable speed so its not too fast and not too slow
-//
-// NOTE: I am drawing a line centered on the screen just so you can see if the paddle ends up being positioned correctly
+//     the paddle ends up being positioned correctly
 //
 // Run "build.bat answers\02" in the terminal to see the result
 
