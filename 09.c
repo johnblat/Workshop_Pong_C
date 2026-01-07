@@ -17,6 +17,9 @@
 // degree between -75 and 75, with 0 being the middle of the 
 // paddle as described above
 
+// here is the implementation described that you will need to re-implement: 
+// https://gamedev.stackexchange.com/questions/4253/in-pong-how-do-you-calculate-the-balls-direction-when-it-bounces-off-the-paddl
+
 #include "./raylib/include/raylib.h"
 
 #define screen_size 720
