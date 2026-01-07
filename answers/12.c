@@ -7,7 +7,7 @@
  And then it returns to the main menu 
 */
 #include "./raylib/include/raylib.h"
-#include <corecrt_math.h>
+// #include <corecrt_math.h>
 #include <math.h>
 #include <stdio.h>
 
